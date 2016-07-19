@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>lms511_node</name>
-  <version>0.0.1</version>
+  <version>1.0</version>
   <description>The lms511_node package</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag --> 
