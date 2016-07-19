@@ -98,7 +98,7 @@ find_package(catkin REQUIRED COMPONENTS message_generation roscpp std_msgs genms
 
 catkin_package(
   INCLUDE_DIRS include
-  CATKIN_DEPENDS generate_msgs roscpp
+  CATKIN_DEPENDS roscpp
 )
   # LIBRARIES lms511_node
 #  DEPENDS system_lib
